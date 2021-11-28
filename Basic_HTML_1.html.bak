@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+<script>
+alert("Hello, World!");
+</script>
+<p><font color="green">Here's some green text!></p>
+<p style="font-family:verdana">This paragraph uses the verdana font..</p>
+<p style="font-family:'Courier New'">This paragraph uses Courier New</p>
+<font color="red">RED TEXT</font>
+<font color="#FF0000">RED TEXT FROM HEX CODE</font>
+<p>
+	<font color="purple" face="Roboto" size="5">
+		PURPLE ROBOTO text
+		</font>
+</p>
+<p><font color="orange"</font></p>
+<b>BOLD </b><i>ITALICS</i>and <u>UNDERLINED</u></p>
+</html>
