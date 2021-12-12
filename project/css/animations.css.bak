@@ -102,3 +102,7 @@ MENU SECTION ANIMATION
 	transform-origin: 50% 50%;
 }
 
+.photo-hover img {
+	transform: scale(1.1);
+}
+
