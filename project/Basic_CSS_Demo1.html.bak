@@ -5,7 +5,8 @@
         <title>Basic HTML Template</title>
         <link rel="stylesheet" href="./css/Basic_style.css">
     </head>
-	<body>
+    <body>
+    
         <div>
                 <h1>Basic CSS Demo</h1>
         </div>
@@ -27,5 +28,6 @@
                     <p>Box 4</p>
                 </div>
             </div>
-	</body>
+
+        </body>
 </html>
